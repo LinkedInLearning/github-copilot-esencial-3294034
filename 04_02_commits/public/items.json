@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "category": "Electronics",
+        "price": 499.99,
+        "name": "Smartphone",
+        "manufacturer": "ABC Electronics",
+        "origin_country": "USA",
+        "manufacturing_date": "2022-01-15",
+        "distributor": "XYZ Distributors",
+        "phone": "123-456-7890",
+        "email": "info@xyz.com"
+    },
+    {
+        "id": "2",
+        "category": "Clothing",
+        "price": 29.99,
+        "name": "T-Shirt",
+        "manufacturer": "XYZ Apparel",
+        "origin_country": "China",
+        "manufacturing_date": "2022-02-01",
+        "distributor": "ABC Distributors",
+        "phone": "987-654-3210",
+        "email": "info@abc.com"
+    },
+    {
+        "id": "3",
+        "category": "Home Appliances",
+        "price": 199.99,
+        "name": "Coffee Maker",
+        "manufacturer": "123 Appliances",
+        "origin_country": "Germany",
+        "manufacturing_date": "2022-03-10",
+        "distributor": "DEF Distributors",
+        "phone": "555-123-4567",
+        "email": "info@def.com"
+    }
+]
