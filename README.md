@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/github-copilot-esencial
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQG32De4KvkvPA/learning-public-crop_675_1200/0/1714978571211?e=2147483647&v=beta&t=j2VzL8c6vdzzkLe9ty41BYvkeP9OgGjBL6cDOsdkU14
 
 [1]: # (End of ES-Instruction ###############################################################################################)
